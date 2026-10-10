@@ -1,0 +1,131 @@
+{
+  "unique_txs": 11502,
+  "fetched": 11502,
+  "net_gas_SUI_total": 85.743726392,
+  "senders_top": [
+    [
+      "0xae8c0b855ea1db76b578288d32bd70b0eae077f06b85631fe14768459bd6835e",
+      3497
+    ],
+    [
+      "0x490d83592b542cf6fd2d727c2296648943bf7c82e2a69f5668f1d676d18540b3",
+      2880
+    ],
+    [
+      "0x1d9c95dc7b366cc83e6e2b4b6dc3151a54cc897e1f4ff5b7afaf6d688b0bfc0f",
+      286
+    ],
+    [
+      "0x7451e533cf679c6b41933a421e8cbc1e4cd7802b0260694f6e54681bbf6551ef",
+      227
+    ],
+    [
+      "0x213b1b6fc0e32cf6ab99b715d81355a530293b1916f6474d010542c94bf86afb",
+      182
+    ]
+  ],
+  "per_phase": {
+    "ArenaTunnelCreated": {
+      "txs": 3344,
+      "fetched": 3344,
+      "net_gas_SUI": 103.689401828,
+      "senders": [
+        [
+          "0x490d83592b542cf6fd2d727c2296648943bf7c82e2a69f5668f1d676d18540b3",
+          960
+        ],
+        [
+          "0x1d9c95dc7b366cc83e6e2b4b6dc3151a54cc897e1f4ff5b7afaf6d688b0bfc0f",
+          99
+        ],
+        [
+          "0x7451e533cf679c6b41933a421e8cbc1e4cd7802b0260694f6e54681bbf6551ef",
+          93
+        ]
+      ],
+      "failed": 0
+    },
+    "ArenaTunnelActivated": {
+      "txs": 3271,
+      "fetched": 3271,
+      "net_gas_SUI": 10.428707452,
+      "senders": [
+        [
+          "0xae8c0b855ea1db76b578288d32bd70b0eae077f06b85631fe14768459bd6835e",
+          2311
+        ],
+        [
+          "0x490d83592b542cf6fd2d727c2296648943bf7c82e2a69f5668f1d676d18540b3",
+          960
+        ]
+      ],
+      "failed": 0
+    },
+    "ArenaTunnelSettled": {
+      "txs": 1937,
+      "fetched": 1937,
+      "net_gas_SUI": -29.049601992,
+      "senders": [
+        [
+          "0x490d83592b542cf6fd2d727c2296648943bf7c82e2a69f5668f1d676d18540b3",
+          960
+        ],
+        [
+          "0xae8c0b855ea1db76b578288d32bd70b0eae077f06b85631fe14768459bd6835e",
+          593
+        ],
+        [
+          "0x1d9c95dc7b366cc83e6e2b4b6dc3151a54cc897e1f4ff5b7afaf6d688b0bfc0f",
+          88
+        ]
+      ],
+      "failed": 0
+    },
+    "ArenaDisputeOpened": {
+      "txs": 593,
+      "fetched": 593,
+      "net_gas_SUI": 0.122456872,
+      "senders": [
+        [
+          "0xae8c0b855ea1db76b578288d32bd70b0eae077f06b85631fe14768459bd6835e",
+          593
+        ]
+      ],
+      "failed": 0
+    },
+    "ArenaSeatFunded": {
+      "txs": 5628,
+      "fetched": 5628,
+      "net_gas_SUI": 10.981469684,
+      "senders": [
+        [
+          "0xae8c0b855ea1db76b578288d32bd70b0eae077f06b85631fe14768459bd6835e",
+          2311
+        ],
+        [
+          "0x490d83592b542cf6fd2d727c2296648943bf7c82e2a69f5668f1d676d18540b3",
+          960
+        ],
+        [
+          "0x1d9c95dc7b366cc83e6e2b4b6dc3151a54cc897e1f4ff5b7afaf6d688b0bfc0f",
+          99
+        ]
+      ],
+      "failed": 0
+    }
+  },
+  "settlement_lag_seconds_by_disposition": {
+    "disp0": {
+      "n": 7680,
+      "p50_s": 0.428,
+      "p90_s": 0.64,
+      "max_s": 1.194
+    },
+    "disp1": {
+      "n": 593,
+      "p50_s": 10820.758,
+      "p90_s": 21605.926,
+      "max_s": 22094.775
+    }
+  }
+}

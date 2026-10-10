@@ -1,0 +1,59 @@
+{
+  "tunnels_created_total": 43327,
+  "tunnels_created_by_day": {
+    "2026-10-02": 4,
+    "2026-10-03": 126,
+    "2026-10-04": 6429,
+    "2026-10-05": 8427,
+    "2026-10-06": 8718,
+    "2026-10-07": 19423,
+    "2026-10-08": 159,
+    "2026-10-09": 41
+  },
+  "tunnels_settled_total": 40330,
+  "disputes_opened_total": 868,
+  "dispositions_all": {
+    "0": 37376,
+    "1": 867
+  },
+  "excluded_sentinel_timestamps_by_disp_live": {
+    "disp0_liveFalse": 1703,
+    "disp0_liveTrue": 384
+  },
+  "receipts_all_time": 117393991433,
+  "live": {
+    "tunnels": 8273,
+    "tunnels_running": 7680,
+    "receipts_total": 15241348297,
+    "first_activation": "2026-10-07T08:34:41+00:00",
+    "last_terminal": "2026-10-07T08:53:07+00:00",
+    "last_settlement": "2026-10-07T14:48:00+00:00",
+    "peak_reconstructed_tps": 39862531,
+    "peak_second_utc": "2026-10-07T08:46:10+00:00",
+    "tunnels_active_at_peak": 7680,
+    "seconds_above_10M": 470,
+    "seconds_above_20M": 391,
+    "session_seconds_median": 368.717,
+    "session_seconds_p90": 531.244,
+    "per_tunnel_tps_median": 5231,
+    "per_tunnel_tps_p99": 5933,
+    "receipts_max_single_tunnel": 3132986,
+    "domains": {
+      "simple_payments.v3.target.v1": 6144,
+      "?": 2129
+    },
+    "receipts_by_domain": {
+      "simple_payments.v3.target.v1": 12037290224,
+      "?": 3204058073
+    },
+    "dispositions": {
+      "0": 7680,
+      "1": 593
+    },
+    "evidence_class": {
+      "0": 8273
+    },
+    "onchain_txs_open_activate_settle": 4567,
+    "tunnels_with_equal_final_balances": 3080
+  }
+}
