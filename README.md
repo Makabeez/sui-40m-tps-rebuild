@@ -6,7 +6,7 @@ Rebuilds Sui's 40,614,180 TPS record (Sui Basecamp, 7 Oct 2026) from public main
 
 ![Reconstructed throughput](results/tps_reconstructed.png)
 
-Write-up: _link to the article_
+Write-up: https://dev.to/makabeez/40-million-tps-rebuilt-from-the-chain-452l (français : https://dev.to/makabeez/40-millions-de-tps-reconstruits-depuis-la-chaine-3ij6)
 
 ## Run it
 
